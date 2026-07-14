@@ -1,1 +1,1 @@
-AWS Cloud Computing Internship Projects - Amazon S3 Static Website Hosting and EC2 Web Server Deployment.
+Cloud Computing Internship Projects on AWS - Hands-on implementations of cloud services and infrastructure.
