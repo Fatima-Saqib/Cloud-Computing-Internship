@@ -16,3 +16,6 @@ This project demonstrates how to deploy a static website using Amazon S3. An S3 
 
 ## Status
 Completed ✅
+
+## Website URL
+http://fatima-saqib-portfolio-2026.s3-website.eu-north-1.amazonaws.com
